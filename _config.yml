@@ -1,0 +1,18 @@
+title: "Sabbir Rehman - Tech Portfolio"
+description: "Building the future through technology, engineering excellence, and entrepreneurial vision"
+baseurl: ""
+url: "https://grandmastertracker.github.io"
+
+name: "Sabbir Rehman"
+email: "your-email@gmail.com"
+tagline: "Tech Enthusiast • Engineering Student • Future Innovator"
+
+social:
+  github: "GrandMasterTracker"
+  linkedin: "your-linkedin"
+  email: "your-email@gmail.com"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
